@@ -1,0 +1,10 @@
+.input_color_text {
+    border: 1px solid rgb(var(--clr-rgb-on-surface));
+    font-size: 1.1rem;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0.3125em;
+    width: 10ch;
+    border-radius: 5px;
+    color: rgb(var(--clr-input-text));
+    caret-color: rgb(var(--clr-input-text));
+  }
