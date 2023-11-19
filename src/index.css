@@ -97,8 +97,6 @@
   --clr-rgb-err-cont: var(--clr-rgb-e-90);
   --clr-rgb-on-err: var(--clr-rgb-e-99);
   --clr-rgb-on-err-cont: var(--clr-rgb-e-10);
-
-  --clr-input-text: 0 0 0;
 }
 
 html.dark {
@@ -139,8 +137,6 @@ html.dark {
   --clr-rgb-err-cont: var(--clr-rgb-e-30);
   --clr-rgb-on-err: var(--clr-rgb-e-20);
   --clr-rgb-on-err-cont: var(--clr-rgb-e-90);
-
-  --clr-input-text: 255 255 255;
 }
 
 html {

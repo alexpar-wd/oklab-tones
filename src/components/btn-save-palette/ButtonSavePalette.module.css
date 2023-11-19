@@ -1,7 +1,8 @@
 .btn_save_palette {
-    padding: 1rem;
+    padding: 1rem 1.5rem;
     border-radius: 0.5rem;
-    margin: 0.25rem;
+    margin-bottom: 0.25rem;
+    margin-top: 0.5rem;
     font-family: 'Playfair', serif;
     font-weight: 700;
     font-size: 1.0625rem;
